@@ -1,7 +1,7 @@
 // script.js
 
 function getWeather() {
-    const apiKey = 'eb4d43f9f60b4cee1661434d03af4316'; // Wrap the API key in quotes
+    const apiKey = '97f94da0095f2207c6037f76a1063096'; // Wrap the API key in quotes
     const city = document.getElementById('city').value;
 
     if (!city) {
